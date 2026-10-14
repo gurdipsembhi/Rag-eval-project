@@ -1,0 +1,11 @@
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+python-dotenv
+pypdf
+deepeval
+openai
+langchain   
+chromadb
+sentence_transformers

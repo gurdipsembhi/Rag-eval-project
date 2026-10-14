@@ -1,0 +1,2192 @@
+[
+  {
+    "question_id": "Q0001",
+    "question": "What is the indicative asking price of Azure Square - Unit 001 (UAE-SYN-001)?",
+    "expected_answer": "AED 720,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-001"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-001"
+    ],
+    "ground_truth_text": "AED 720,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0002",
+    "question": "Where is property UAE-SYN-001 located?",
+    "expected_answer": "Dubai South, Dubai, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-001"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-001"
+    ],
+    "ground_truth_text": "Dubai South, Dubai, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0003",
+    "question": "How many bedrooms and bathrooms does Azure Square - Unit 001 (UAE-SYN-001) have?",
+    "expected_answer": "1 bedroom(s) and 1 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-001"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-001"
+    ],
+    "ground_truth_text": "1 bedroom(s) and 1 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0004",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-001?",
+    "expected_answer": "Estimated annual rent: AED 64,000; estimated annual service charge: AED 9,900.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-001"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-001"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 64,000; estimated annual service charge: AED 9,900.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0005",
+    "question": "Does property UAE-SYN-001 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: No; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-001"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-001_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-001"
+    ],
+    "ground_truth_text": "Balcony: No; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0006",
+    "question": "What is the indicative asking price of Horizon Heights - Unit 002 (UAE-SYN-002)?",
+    "expected_answer": "AED 2,710,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-002"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-002"
+    ],
+    "ground_truth_text": "AED 2,710,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0007",
+    "question": "Where is property UAE-SYN-002 located?",
+    "expected_answer": "Al Maryah Island, Abu Dhabi, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-002"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-002"
+    ],
+    "ground_truth_text": "Al Maryah Island, Abu Dhabi, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0008",
+    "question": "How many bedrooms and bathrooms does Horizon Heights - Unit 002 (UAE-SYN-002) have?",
+    "expected_answer": "4 bedroom(s) and 4 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-002"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-002"
+    ],
+    "ground_truth_text": "4 bedroom(s) and 4 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0009",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-002?",
+    "expected_answer": "Estimated annual rent: AED 131,000; estimated annual service charge: AED 46,800.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-002"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-002"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 131,000; estimated annual service charge: AED 46,800.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0010",
+    "question": "Does property UAE-SYN-002 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: No; parking spaces: 2.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-002"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-002_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-002"
+    ],
+    "ground_truth_text": "Balcony: No; parking spaces: 2.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0011",
+    "question": "What is the indicative asking price of Crescent Court - Unit 003 (UAE-SYN-003)?",
+    "expected_answer": "AED 960,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-003"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-003"
+    ],
+    "ground_truth_text": "AED 960,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0012",
+    "question": "Where is property UAE-SYN-003 located?",
+    "expected_answer": "Al Majaz, Sharjah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-003"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-003"
+    ],
+    "ground_truth_text": "Al Majaz, Sharjah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0013",
+    "question": "How many bedrooms and bathrooms does Crescent Court - Unit 003 (UAE-SYN-003) have?",
+    "expected_answer": "2 bedroom(s) and 2 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-003"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-003"
+    ],
+    "ground_truth_text": "2 bedroom(s) and 2 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0014",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-003?",
+    "expected_answer": "Estimated annual rent: AED 72,000; estimated annual service charge: AED 20,800.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-003"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-003"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 72,000; estimated annual service charge: AED 20,800.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0015",
+    "question": "Does property UAE-SYN-003 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-003"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-003_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-003"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0016",
+    "question": "What is the indicative asking price of Palmview Collection - Unit 004 (UAE-SYN-004)?",
+    "expected_answer": "AED 460,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-004"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-004"
+    ],
+    "ground_truth_text": "AED 460,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0017",
+    "question": "Where is property UAE-SYN-004 located?",
+    "expected_answer": "Ajman Downtown, Ajman, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-004"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-004"
+    ],
+    "ground_truth_text": "Ajman Downtown, Ajman, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0018",
+    "question": "How many bedrooms and bathrooms does Palmview Collection - Unit 004 (UAE-SYN-004) have?",
+    "expected_answer": "1 bedroom(s) and 1 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-004"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-004"
+    ],
+    "ground_truth_text": "1 bedroom(s) and 1 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0019",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-004?",
+    "expected_answer": "Estimated annual rent: AED 41,000; estimated annual service charge: AED 16,200.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-004"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-004"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 41,000; estimated annual service charge: AED 16,200.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0020",
+    "question": "Does property UAE-SYN-004 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: No; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-004"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-004_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-004"
+    ],
+    "ground_truth_text": "Balcony: No; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0021",
+    "question": "What is the indicative asking price of Solstice Collection - Unit 005 (UAE-SYN-005)?",
+    "expected_answer": "AED 3,030,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-005"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-005"
+    ],
+    "ground_truth_text": "AED 3,030,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0022",
+    "question": "Where is property UAE-SYN-005 located?",
+    "expected_answer": "Al Hamra Village, Ras Al Khaimah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-005"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-005"
+    ],
+    "ground_truth_text": "Al Hamra Village, Ras Al Khaimah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0023",
+    "question": "How many bedrooms and bathrooms does Solstice Collection - Unit 005 (UAE-SYN-005) have?",
+    "expected_answer": "4 bedroom(s) and 4 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-005"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-005"
+    ],
+    "ground_truth_text": "4 bedroom(s) and 4 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0024",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-005?",
+    "expected_answer": "Estimated annual rent: AED 235,000; estimated annual service charge: AED 85,500.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-005"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-005"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 235,000; estimated annual service charge: AED 85,500.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0025",
+    "question": "Does property UAE-SYN-005 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 2.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-005"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-005_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-005"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 2.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0026",
+    "question": "What is the indicative asking price of Saffron Collection - Unit 006 (UAE-SYN-006)?",
+    "expected_answer": "AED 390,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-006"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-006"
+    ],
+    "ground_truth_text": "AED 390,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0027",
+    "question": "Where is property UAE-SYN-006 located?",
+    "expected_answer": "Fujairah City, Fujairah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-006"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-006"
+    ],
+    "ground_truth_text": "Fujairah City, Fujairah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0028",
+    "question": "How many bedrooms and bathrooms does Saffron Collection - Unit 006 (UAE-SYN-006) have?",
+    "expected_answer": "0 bedroom(s) and 1 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-006"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-006"
+    ],
+    "ground_truth_text": "0 bedroom(s) and 1 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0029",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-006?",
+    "expected_answer": "Estimated annual rent: AED 27,000; estimated annual service charge: AED 6,500.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-006"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-006"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 27,000; estimated annual service charge: AED 6,500.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0030",
+    "question": "Does property UAE-SYN-006 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-006"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-006_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-006"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0031",
+    "question": "What is the indicative asking price of Sage Living - Unit 007 (UAE-SYN-007)?",
+    "expected_answer": "AED 640,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-007"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-007"
+    ],
+    "ground_truth_text": "AED 640,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0032",
+    "question": "Where is property UAE-SYN-007 located?",
+    "expected_answer": "Umm Al Quwain Marina, Umm Al Quwain, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-007"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-007"
+    ],
+    "ground_truth_text": "Umm Al Quwain Marina, Umm Al Quwain, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0033",
+    "question": "How many bedrooms and bathrooms does Sage Living - Unit 007 (UAE-SYN-007) have?",
+    "expected_answer": "2 bedroom(s) and 2 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-007"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-007"
+    ],
+    "ground_truth_text": "2 bedroom(s) and 2 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0034",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-007?",
+    "expected_answer": "Estimated annual rent: AED 48,000; estimated annual service charge: AED 17,000.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-007"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-007"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 48,000; estimated annual service charge: AED 17,000.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0035",
+    "question": "Does property UAE-SYN-007 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-007"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-007_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-007"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0036",
+    "question": "What is the indicative asking price of Opal Court - Unit 008 (UAE-SYN-008)?",
+    "expected_answer": "AED 990,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-008"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-008"
+    ],
+    "ground_truth_text": "AED 990,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0037",
+    "question": "Where is property UAE-SYN-008 located?",
+    "expected_answer": "Arjan, Dubai, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-008"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-008"
+    ],
+    "ground_truth_text": "Arjan, Dubai, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0038",
+    "question": "How many bedrooms and bathrooms does Opal Court - Unit 008 (UAE-SYN-008) have?",
+    "expected_answer": "0 bedroom(s) and 1 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-008"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-008"
+    ],
+    "ground_truth_text": "0 bedroom(s) and 1 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0039",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-008?",
+    "expected_answer": "Estimated annual rent: AED 75,000; estimated annual service charge: AED 8,600.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-008"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-008"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 75,000; estimated annual service charge: AED 8,600.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0040",
+    "question": "Does property UAE-SYN-008 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 2.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-008"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-008_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-008"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 2.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0041",
+    "question": "What is the indicative asking price of Noura Towers - Unit 009 (UAE-SYN-009)?",
+    "expected_answer": "AED 2,880,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-009"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-009"
+    ],
+    "ground_truth_text": "AED 2,880,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0042",
+    "question": "Where is property UAE-SYN-009 located?",
+    "expected_answer": "Al Reem Island, Abu Dhabi, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-009"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-009"
+    ],
+    "ground_truth_text": "Al Reem Island, Abu Dhabi, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0043",
+    "question": "How many bedrooms and bathrooms does Noura Towers - Unit 009 (UAE-SYN-009) have?",
+    "expected_answer": "4 bedroom(s) and 4 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-009"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-009"
+    ],
+    "ground_truth_text": "4 bedroom(s) and 4 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0044",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-009?",
+    "expected_answer": "Estimated annual rent: AED 222,000; estimated annual service charge: AED 64,600.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-009"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-009"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 222,000; estimated annual service charge: AED 64,600.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0045",
+    "question": "Does property UAE-SYN-009 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: No; parking spaces: 2.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-009"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-009_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-009"
+    ],
+    "ground_truth_text": "Balcony: No; parking spaces: 2.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0046",
+    "question": "What is the indicative asking price of Harbour Court - Unit 010 (UAE-SYN-010)?",
+    "expected_answer": "AED 2,500,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-010"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-010"
+    ],
+    "ground_truth_text": "AED 2,500,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0047",
+    "question": "Where is property UAE-SYN-010 located?",
+    "expected_answer": "Al Majaz, Sharjah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-010"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-010"
+    ],
+    "ground_truth_text": "Al Majaz, Sharjah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0048",
+    "question": "How many bedrooms and bathrooms does Harbour Court - Unit 010 (UAE-SYN-010) have?",
+    "expected_answer": "4 bedroom(s) and 5 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-010"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-010"
+    ],
+    "ground_truth_text": "4 bedroom(s) and 5 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0049",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-010?",
+    "expected_answer": "Estimated annual rent: AED 196,000; estimated annual service charge: AED 34,200.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-010"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-010"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 196,000; estimated annual service charge: AED 34,200.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0050",
+    "question": "Does property UAE-SYN-010 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 3.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-010"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-010_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-010"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 3.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0051",
+    "question": "What is the indicative asking price of Marina Gardens - Unit 011 (UAE-SYN-011)?",
+    "expected_answer": "AED 1,180,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-011"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-011"
+    ],
+    "ground_truth_text": "AED 1,180,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0052",
+    "question": "Where is property UAE-SYN-011 located?",
+    "expected_answer": "Ajman Downtown, Ajman, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-011"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-011"
+    ],
+    "ground_truth_text": "Ajman Downtown, Ajman, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0053",
+    "question": "How many bedrooms and bathrooms does Marina Gardens - Unit 011 (UAE-SYN-011) have?",
+    "expected_answer": "3 bedroom(s) and 3 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-011"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-011"
+    ],
+    "ground_truth_text": "3 bedroom(s) and 3 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0054",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-011?",
+    "expected_answer": "Estimated annual rent: AED 83,000; estimated annual service charge: AED 27,400.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-011"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-011"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 83,000; estimated annual service charge: AED 27,400.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0055",
+    "question": "Does property UAE-SYN-011 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 2.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-011"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-011_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-011"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 2.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0056",
+    "question": "What is the indicative asking price of Meridian Terraces - Unit 012 (UAE-SYN-012)?",
+    "expected_answer": "AED 870,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-012"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-012"
+    ],
+    "ground_truth_text": "AED 870,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0057",
+    "question": "Where is property UAE-SYN-012 located?",
+    "expected_answer": "Al Marjan Island, Ras Al Khaimah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-012"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-012"
+    ],
+    "ground_truth_text": "Al Marjan Island, Ras Al Khaimah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0058",
+    "question": "How many bedrooms and bathrooms does Meridian Terraces - Unit 012 (UAE-SYN-012) have?",
+    "expected_answer": "1 bedroom(s) and 1 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-012"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-012"
+    ],
+    "ground_truth_text": "1 bedroom(s) and 1 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0059",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-012?",
+    "expected_answer": "Estimated annual rent: AED 51,000; estimated annual service charge: AED 21,600.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-012"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-012"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 51,000; estimated annual service charge: AED 21,600.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0060",
+    "question": "Does property UAE-SYN-012 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: No; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-012"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-012_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-012"
+    ],
+    "ground_truth_text": "Balcony: No; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0061",
+    "question": "What is the indicative asking price of Dune Towers - Unit 013 (UAE-SYN-013)?",
+    "expected_answer": "AED 540,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-013"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-013"
+    ],
+    "ground_truth_text": "AED 540,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0062",
+    "question": "Where is property UAE-SYN-013 located?",
+    "expected_answer": "Fujairah City, Fujairah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-013"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-013"
+    ],
+    "ground_truth_text": "Fujairah City, Fujairah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0063",
+    "question": "How many bedrooms and bathrooms does Dune Towers - Unit 013 (UAE-SYN-013) have?",
+    "expected_answer": "0 bedroom(s) and 1 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-013"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-013"
+    ],
+    "ground_truth_text": "0 bedroom(s) and 1 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0064",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-013?",
+    "expected_answer": "Estimated annual rent: AED 34,000; estimated annual service charge: AED 10,800.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-013"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-013"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 34,000; estimated annual service charge: AED 10,800.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0065",
+    "question": "Does property UAE-SYN-013 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: No; parking spaces: 1.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-013"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-013_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-013"
+    ],
+    "ground_truth_text": "Balcony: No; parking spaces: 1.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0066",
+    "question": "What is the indicative asking price of Vista Residences - Unit 014 (UAE-SYN-014)?",
+    "expected_answer": "AED 1,950,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-014"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-014"
+    ],
+    "ground_truth_text": "AED 1,950,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0067",
+    "question": "Where is property UAE-SYN-014 located?",
+    "expected_answer": "Umm Al Quwain Marina, Umm Al Quwain, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-014"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-014"
+    ],
+    "ground_truth_text": "Umm Al Quwain Marina, Umm Al Quwain, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0068",
+    "question": "How many bedrooms and bathrooms does Vista Residences - Unit 014 (UAE-SYN-014) have?",
+    "expected_answer": "5 bedroom(s) and 5 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-014"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-014"
+    ],
+    "ground_truth_text": "5 bedroom(s) and 5 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0069",
+    "question": "What are the estimated annual rent and service charge for property UAE-SYN-014?",
+    "expected_answer": "Estimated annual rent: AED 123,000; estimated annual service charge: AED 58,000.",
+    "answer_type": "answerable",
+    "category": "financial",
+    "difficulty": "medium",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-014"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-014"
+    ],
+    "ground_truth_text": "Estimated annual rent: AED 123,000; estimated annual service charge: AED 58,000.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0070",
+    "question": "Does property UAE-SYN-014 have a balcony and how many parking spaces are listed?",
+    "expected_answer": "Balcony: Yes; parking spaces: 2.",
+    "answer_type": "answerable",
+    "category": "property_features",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-014"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-014_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-014"
+    ],
+    "ground_truth_text": "Balcony: Yes; parking spaces: 2.",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0071",
+    "question": "What is the indicative asking price of Oasis Collection - Unit 015 (UAE-SYN-015)?",
+    "expected_answer": "AED 1,250,000",
+    "answer_type": "answerable",
+    "category": "exact_price",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-015"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-015_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-015_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-015"
+    ],
+    "ground_truth_text": "AED 1,250,000",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0072",
+    "question": "Where is property UAE-SYN-015 located?",
+    "expected_answer": "Aljada, Sharjah, UAE",
+    "answer_type": "answerable",
+    "category": "location",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-015"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-015_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-015_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-015"
+    ],
+    "ground_truth_text": "Aljada, Sharjah, UAE",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  },
+  {
+    "question_id": "Q0073",
+    "question": "How many bedrooms and bathrooms does Oasis Collection - Unit 015 (UAE-SYN-015) have?",
+    "expected_answer": "2 bedroom(s) and 2 bathroom(s)",
+    "answer_type": "answerable",
+    "category": "layout",
+    "difficulty": "easy",
+    "metric": "fact",
+    "source_document_ids": [
+      "UAE-SYN-015"
+    ],
+    "source_pdf_filenames": [
+      "UAE-SYN-015_Property_Letter.pdf"
+    ],
+    "source_page_numbers": [
+      1
+    ],
+    "metadata_filters": {},
+    "evaluation_notes": "",
+    "source_pdf_paths": [
+      "property_letters/UAE-SYN-015_Property_Letter.pdf"
+    ],
+    "ground_truth_doc_ids": [
+      "UAE-SYN-015"
+    ],
+    "ground_truth_text": "2 bedroom(s) and 2 bathroom(s)",
+    "answerable": true,
+    "dataset": "UAE Synthetic Property Letter Collection v1",
+    "retrieval_scope": "100 property letters"
+  }
+]
