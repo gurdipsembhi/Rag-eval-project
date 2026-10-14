@@ -5,14 +5,17 @@ from deepeval import evaluate
 from deepeval.test_case import LLMTestCase
 from deepeval.metrics import ContextualRecallMetric, ContextualPrecisionMetric
 
-from src.reranker import RerankingRetriever
+from src.reranker import CROSS_ENCODER, RerankingRetriever
+from src.retrival import DB_DIR
 from eval.harness import load_goldens, summarize_by_metric, print_summary
 
 load_dotenv()
 
 GOLDEN_PATH = "golden/gold_set.json"
-JUDGE_MODEL = "gpt-4o-mini"   # NOTE: differs from the other evals (gpt-4o-mini)
+JUDGE_MODEL = "gpt-4o-mini"
 THRESHOLD = 0.7
+FETCH_K = 30
+TOP_K = 3
 
 
 def run(retriever):
@@ -22,8 +25,11 @@ def run(retriever):
     # 2. RUN THE INJECTED RETRIEVER on each question to fill retrieval_context,
     #    then build one test case per golden.
     test_cases = []
-    for g in goldens:
+    for i, g in enumerate(goldens, start=1):
+        print(f"\n[{i}/{len(goldens)}] {g['question']}", flush=True)
         retrieved = retriever.invoke(g["question"])
+        print("Expected PDFs:", g.get("source_pdf_filenames", []), flush=True)
+        print("Retrieved PDFs:", [doc.metadata["source"] for doc in retrieved], flush=True)
         retrieval_context = [doc.page_content for doc in retrieved]
 
         test_cases.append(
@@ -47,11 +53,14 @@ def run(retriever):
         test_cases=test_cases,
         metrics=metrics,
         hyperparameters={
-            "retriever": "reranker",          # vs "reranked" when you swap it in
+            "retriever": "reranker",
+            "reranker_model": CROSS_ENCODER,
+            "index_directory": DB_DIR,
             "embedding_model": "text-embedding-3-large",
             "chunk_size": 1000,
             "chunk_overlap": 150,
-            "top_k": 3,
+            "fetch_k": retriever.fetch_k,
+            "top_k": retriever.top_k,
             "judge_model": JUDGE_MODEL,
             "golden_set": GOLDEN_PATH,
         },
@@ -60,7 +69,8 @@ def run(retriever):
 
 
 def run_local():
-    return run(RerankingRetriever(fetch_k=30, top_k=3))
+    print(f"Opening or building {DB_DIR}; fetch_k={FETCH_K}, top_k={TOP_K}", flush=True)
+    return run(RerankingRetriever(fetch_k=FETCH_K, top_k=TOP_K))
 
 
 if __name__ == "__main__":

@@ -11,7 +11,7 @@ from langchain_core.documents import Document
 load_dotenv()  # loads OPENAI_API_KEY from .env
 
 DATA_DIR = "data/property_letters"
-DB_DIR = "chroma_property_letters"
+DB_DIR = "chroma_property_letters_v2"
 
 
 # 1. LOAD ---- extract text from each property-letter PDF
@@ -41,6 +41,9 @@ def load_store():
         chunk_size=1000,
         chunk_overlap=150,
     ).split_documents(docs)
+
+    for chunk in chunks:
+        chunk.page_content = f"Source: {chunk.metadata['source']}\n{chunk.page_content}"
 
     return Chroma.from_documents(chunks, embeddings, persist_directory=DB_DIR)
 
